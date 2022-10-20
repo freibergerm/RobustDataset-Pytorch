@@ -1,2 +1,2 @@
-# RobustDataloader-Pytorch
-A Robust dataloader class handing readerrors from unreliable block devices
+# RobustDataset-Pytorch
+A robust pytorch dataset class handing readerrors from unreliable block devices
